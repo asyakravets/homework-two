@@ -1,0 +1,10 @@
+#no .db, .log files
+*.log
+*.db
+
+
+#no folders 
+target/
+bin/
+
+song1.txt
